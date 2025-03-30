@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Lautaro Ezquiel Lucero
+- **Nombre:** Lautaro Ezequiel Lucero
 - **Comisión:** M2025-16
 
 ## 📂 Descripción del Repositorio  
